@@ -6,7 +6,7 @@
 
 
 
-dependencies() {
+dependenciese(https://www.instagram.com/vendias_y_confi_sixtomendez/#) {
 command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
 }
 
